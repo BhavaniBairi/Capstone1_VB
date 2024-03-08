@@ -1,8 +1,8 @@
 # Capstone1_VB
 YouTube Data Harvesting and Warehousing
 ------------------------------------------------------------------------------------------------------
-@Title: YouTube Data Harvesting and Warehousing--README
-@Description: To create a Streamlit application that allows users to access and analyze data from multiple YouTube channels
+1. @Title: YouTube Data Harvesting and Warehousing--README
+2. @Description: To create a Streamlit application that allows users to access and analyze data from multiple YouTube channels
 ------------------------------------------------------------------------------------------------------
 
 -----------------------------
