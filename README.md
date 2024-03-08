@@ -11,12 +11,12 @@ Quick Configuration Guide:
 To get the quick access to the different packages of python:
 Create a virtual evnironment under the folder in which you are creating python(.py) file in Visual Studio Code and install below packages in cmd prompt:
 
-pip install google-api-python-client (to import googleapiclient.discovery) 
-pip install pymongo (to import pymongo)
-pip install psycopg2 (to import psycopg2)
-pip install pandas (to import pandas as pd)
-pip install streamlit (to import streamlit as st)
-python -m pip install -U matplotlib (to import matplotlib.pyplot as plt)
+1. pip install google-api-python-client (to import googleapiclient.discovery) 
+2. pip install pymongo (to import pymongo)
+3. pip install psycopg2 (to import psycopg2)
+4. pip install pandas (to import pandas as pd)
+5. pip install streamlit (to import streamlit as st)
+6. python -m pip install -U matplotlib (to import matplotlib.pyplot as plt)
 
 --------------------------
 Features:
@@ -32,8 +32,8 @@ YouTube Data Harvesting and Warehousing supports following features:
 ---------------------------------
 Python code includes:
 ---------------------------------
-Functional blocks to get the required details from the youtube
-Functional block to store the data to datalake
-Functional blocks to create tables and migrate the data to SQL Database
-SQL Queries to retrieve the data based on requirement and display data in Streamlit application
+1. Functional blocks to get the required details from the youtube
+2. Functional block to store the data to datalake
+3. Functional blocks to create tables and migrate the data to SQL Database
+4. SQL Queries to retrieve the data based on requirement and display data in Streamlit application
 
