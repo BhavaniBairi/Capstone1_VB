@@ -464,7 +464,7 @@ def tables():
     playlists_table()
     comments_table()
 
-    return "Tables created successfully"
+    return "Migrated successfully"
 
 
 #Function to show channel table in the streamlit application 
