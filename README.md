@@ -1,4 +1,3 @@
-# Capstone1_VB
 YouTube Data Harvesting and Warehousing
 ------------------------------------------------------------------------------------------------------
 1. @Title: YouTube Data Harvesting and Warehousing--README
